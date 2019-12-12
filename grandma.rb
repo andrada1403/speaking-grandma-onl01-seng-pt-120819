@@ -6,7 +6,7 @@ def speak_to_grandma(statement)
     "HUH?! SPEAK UP, SONNY!"
   elsif statement=="Hi!"
     "HUH?! SPEAK UP, SONNY!"
-  elsif statement=="Hi Nana, how are you?"
+  elsif statement=="WHAT DID YOU EAT TODAY?"
     "HUH?! SPEAK UP, SONNY!"
   end
 end
